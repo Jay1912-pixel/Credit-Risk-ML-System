@@ -9,7 +9,7 @@
 
 ## 🚀 Live Demo
 
-### [▶️ Open FraudLens Dashboard](https://fraudlens-xxxxx.streamlit.app)
+### [▶️ Open FraudLens Dashboard](https://credit-risk-ml-system-nqcatwjdybez6nmzzbipyc.streamlit.app/)
 
 > The live application provides fraud-risk scoring, investigation queues, SHAP explanations, investigation evidence, GenAI summaries, and investigator action tracking.
 
