@@ -1,0 +1,16 @@
+﻿.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+data/raw/
+data/processed/
+
+models/risk_scored_transactions.csv
+
+.ipynb_checkpoints/
+.streamlit/secrets.toml
+
+*.log
+.DS_Store

@@ -1,0 +1,11 @@
+transaction_id,fraud_probability,threshold,actual_fraud,feature,shap_value,absolute_shap,impact
+TXN000962372,4.396851e-05,0.9,0,ip_risk_score,-6.9197865,6.9197865,decreased fraud risk
+TXN000962372,4.396851e-05,0.9,0,velocity_1h,-1.1448337,1.1448337,decreased fraud risk
+TXN000962372,4.396851e-05,0.9,0,amount,-0.81413007,0.81413007,decreased fraud risk
+TXN000962372,4.396851e-05,0.9,0,velocity_amount_ratio,-0.7058666,0.7058666,decreased fraud risk
+TXN000962372,4.396851e-05,0.9,0,device_known,-0.28772032,0.28772032,decreased fraud risk
+TXN000962372,4.396851e-05,0.9,0,foreign_high_risk,-0.25329578,0.25329578,decreased fraud risk
+TXN000962372,4.396851e-05,0.9,0,merchant_category,0.21236122,0.21236122,increased fraud risk
+TXN000962372,4.396851e-05,0.9,0,hour_of_day,-0.1305075,0.1305075,decreased fraud risk
+TXN000962372,4.396851e-05,0.9,0,account_age_days,-0.11866033,0.11866033,decreased fraud risk
+TXN000962372,4.396851e-05,0.9,0,account_txn_count_before,-0.11431923,0.11431923,decreased fraud risk
